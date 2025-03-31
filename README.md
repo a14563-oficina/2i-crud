@@ -15,7 +15,7 @@ Antes de iniciar, certifica-te de que o teu ambiente atende aos seguintes requis
    **http://cpanel.alojamento-gratis.com/**
    
 3. No **Online File Manager**, envia os arquivos do projeto para a pasta `htdocs` ou outra pasta desejada.
-4. Configure a base de dados:
+4. Configura a base de dados:
    - No cPanel, vai até **phpMyAdmin** e cria uma nova base de dados.
    - Importa o arquivo **products.sql**.
 5. Configura a conexão com a base de dados:
