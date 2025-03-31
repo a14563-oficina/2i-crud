@@ -2,14 +2,14 @@
 
 Este projeto é um sistema CRUD (Create, Read, Update, Delete) desenvolvido em PHP. Ele permite gerenciar produtos em uma base de dados, incluindo a adição, edição e eliminação de itens.
 
-# Requisitos
+## Requisitos
 
 Antes de iniciar, certifica-te de que o teu ambiente atende aos seguintes requisitos:
 - Hospedagem com suporte a PHP
 - PHP 7.4 ou superior
 - PhpMyAdmin (para gerenciar a base de dados)
 
-# Instalação no cPanel
+## Instalação no cPanel
 
 1. Acessa o cPanel.
    **http://cpanel.alojamento-gratis.com/**
@@ -30,7 +30,7 @@ Antes de iniciar, certifica-te de que o teu ambiente atende aos seguintes requis
 
 ## Como Usar
 
-- A página de principal permite ver, adicionar, editar e eliminar produtos.
+- A página principal permite ver, adicionar, editar e eliminar produtos.
 - As imagens dos produtos devem ser adicionadas na pasta `images/`.
 - O estilo da aplicação pode ser personalizado no arquivo `css/style.css`.
 
