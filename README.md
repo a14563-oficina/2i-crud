@@ -1,11 +1,11 @@
 # a14563 Crud
 
-Este projeto é um sistema CRUD (Create, Read, Update, Delete) desenvolvido em PHP. Ele permite gerir produtos em uma base de dados, incluindo a adição, edição e eliminação de itens.
+Este projeto é um sistema CRUD (Create, Read, Update, Delete) desenvolvido em PHP. Ele permite gerir produtos numa base de dados, incluindo a adição, edição, atualização e eliminação de itens.
 
 ## Requisitos
 
 Antes de iniciar, certifica-te de que o teu ambiente atende aos seguintes requisitos:
-- Hospedagem com suporte a PHP
+- Alojamento com suporte a PHP
 - PHP 7.4 ou superior
 - PhpMyAdmin (para gerir a base de dados)
 
@@ -31,7 +31,7 @@ Antes de iniciar, certifica-te de que o teu ambiente atende aos seguintes requis
 ## Como Usar
 
 - A página principal permite ver, adicionar, editar e eliminar produtos.
-- As imagens dos produtos devem ser adicionadas na pasta `images/`.
+- As imagens que são adicionadas no site, são enviadas para a pasta `images/`.
 - O estilo da aplicação pode ser personalizado no arquivo `css/style.css`.
 
 ## Autor
