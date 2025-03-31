@@ -4,8 +4,8 @@ Este projeto é um sistema CRUD (Create, Read, Update, Delete) desenvolvido em P
 
 # Requisitos
 
-Antes de iniciar, certifique-se de que seu ambiente atenda aos seguintes requisitos:
-- Hospedagem com suporte a PHP (cPanel foi o utilizado)
+Antes de iniciar, certifica-te de que o teu ambiente atende aos seguintes requisitos:
+- Hospedagem com suporte a PHP
 - PHP 7.4 ou superior
 - PhpMyAdmin (para gerenciar a base de dados)
 
